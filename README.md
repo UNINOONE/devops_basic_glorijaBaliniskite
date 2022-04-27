@@ -1,2 +1,2 @@
-# devops_basic_glorijaBaliniskite
-DevOp pamati iesācējiem
+# DevOps repozitorijs
+Glorija Baliniškīte DevOps repozitorijs pamati iesācējiem
